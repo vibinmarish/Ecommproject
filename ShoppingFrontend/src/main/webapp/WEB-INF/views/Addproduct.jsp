@@ -45,7 +45,7 @@
  <label for="suppliername">Supplier Name</label>
     <input type="text" class="form-control" id="suppliername" placeholder="Enter Supplier Name">
    </div><br>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-info">Submit</button>
 </form>
 </body>
 </html>
