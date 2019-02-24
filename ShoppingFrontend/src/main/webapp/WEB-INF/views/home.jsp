@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Online Bookstore</title>
 </head>
 <body>
-
+ <%@include file="/WEB-INF/views/Navbar.jsp" %>
+  <%@include file="/WEB-INF/views/Carousel.jsp" %>
 </body>
 </html>
