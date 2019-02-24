@@ -18,20 +18,20 @@
 </head>
 <body>
 
-<div id="demo" class="carousel slide" data-ride="carousel">
+<div id="demo" class="carousel slide" data-ride="carousel ">
 
   
   
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="http://fortbragglibrary.org/wp-content/uploads/2017/12/Book-banner.jpg" width="900" height="500">
+      <img src="resources/images/car1.JPG" width="900" height="500">
     </div>
     <div class="carousel-item">
-      <img src="https://jasonreeves.files.wordpress.com/2013/12/scripture-website-banner.jpg" width="900" height="500">
+      <img src="resources/images/car2.JPG" width="900" height="500">
     </div>
     <div class="carousel-item">
-      <img src="http://www.anu.edu.jo/test/blog/wp-content/uploads/2013/04/bookBanner.jpg" width="900" height="500">
+      <img src="resources/images/car3.JPG" width="900" height="500">
     </div>
   </div>
   

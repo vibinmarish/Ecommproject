@@ -14,7 +14,7 @@
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
   <!-- Brand/logo -->
   <a class="navbar-brand" href="#">
-  <img src="http://www.jlteran.com/myemagination/assets/img/openbooklogo.png
+  <img src="resources/images/logo.png
 " alt="Logo" style="width:40px;"> Bookstore</a>
   
   <!-- Links -->
