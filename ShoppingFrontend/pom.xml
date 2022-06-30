@@ -103,7 +103,7 @@
 
 			<artifactId>spring-webflow</artifactId>
 
-			<version>2.4.4.RELEASE</version>
+			<version>2.4.6.RELEASE</version>
 
 		</dependency>
 
